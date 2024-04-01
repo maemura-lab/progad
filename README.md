@@ -28,8 +28,8 @@ code .
 <img src="./screenshots/vscode_openfrom_ubuntuterminal.png" alt="サンプル画像" width="600">
 VScode 起動直後の画面
 <img src="./screenshots/vscode_init.png" alt="サンプル画像" width="600">
-*  「信頼する」をクリックしてよい
-*   「ようこそ」タブは×で消してよい
+-  「信頼する」をクリックしてよい
+-   「ようこそ」タブは×で消してよい
  VScode の画面
 <img src="./screenshots/newfilefolder.png" alt="サンプル画像" width="600">
 新しいファイル、新しいフォルダのアイコンをクリックすると、ファイルやフォルダが新規作成される
