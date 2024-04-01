@@ -26,17 +26,24 @@ Ubuntuターミナルで code ␣.(ドット)　と入力する
 code .
 ```
 <img src="./screenshots/vscode_openfrom_ubuntuterminal.png" alt="サンプル画像" width="600">
+
 VScode 起動直後の画面
+
 <img src="./screenshots/vscode_init.png" alt="サンプル画像" width="600">
 
 -  「信頼する」をクリックしてよい
 -   「ようこそ」タブは×で消してよい
   
  VScode の画面
+ 
 <img src="./screenshots/newfilefolder.png" alt="サンプル画像" width="600">
+
 新しいファイル、新しいフォルダのアイコンをクリックすると、ファイルやフォルダが新規作成される
+
 <img src="./screenshots/newfilefolder.png" alt="サンプル画像" width="600">
+
 フォルダ「progad」を新規作成し、その中に入り、ファイル「firstclang.c」を作成しコード入力した画面
+
 <img src="./screenshots/helloworld.png" alt="サンプル画像" width="600">
 
 ## c言語ソースのコンパイルと実行
