@@ -1,0 +1,23 @@
+ login
+ Home open
+ mkdir progad
+ terminal
+ ubuntu
+ open vscode from ubuntu terminal
+ vscode init 信頼してようこそタブを閉じる
+ 
+ 設定ファイルはいじらない
+ 新規ファイルフォルダ
+ helloworld
+ファイルタブ-保存
+Ubuntuターミナルに戻り、gcc
+
+終了後は仮想Linux内のファイルは削除されるので、自分のHomeにコピーしておく
+
+実行ファイルは、ホスト側にコピーして戻すと、実行権限がはずれる
+実行権限をつけるか、再コンパイルするとよい
+ワークフロー
+
+ホスト側でVScodeを起動してリモート><を呼び出すとUbuntuが起動する（ターミナルも使える）
+
+主要なコマンドを示す
