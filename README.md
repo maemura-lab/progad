@@ -48,3 +48,15 @@ VScode 起動直後の画面
 
 ## c言語ソースのコンパイルと実行
 
+Ubuntu ターミナルにもどりgccコンパイラを使って作成したcソースコードをコンパイルする。
+
+<img src="./screenshots/gcc.png" alt="サンプル画像" width="600">
+
+コマンドの説明：
+
+*  ls          カレントディレクトリのファイルとフォルダのリストを確認する
+*  cd progad   配下のディレクトリprogadにディクレクトリを変更する　change directory
+*  gcc -o 実行ファイル　ソースファイル.c　例ではgcc -o test firstclang.c
+* 　./test   実行ファイルを実行する
+
+
