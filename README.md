@@ -54,9 +54,9 @@ Ubuntu ターミナルにもどりgccコンパイラを使って作成したcソ
 
 コマンドの説明：
 
-*  ls          カレントディレクトリのファイルとフォルダのリストを確認する
-*  cd progad   配下のディレクトリprogadにディクレクトリを変更する　change directory
-*  gcc -o 実行ファイル　ソースファイル.c　例ではgcc -o test firstclang.c
-* 　./test   実行ファイルを実行する
+*  ls          　　カレントディレクトリのファイルとフォルダのリストを確認する
+*  cd progad   　　配下のディレクトリprogadにディクレクトリを変更する　change directory
+*  gcc -o 実行ファイル　ソースファイル.c　　例ではgcc -o test firstclang.c
+* 　./test   実行する
 
 
