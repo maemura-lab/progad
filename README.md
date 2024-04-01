@@ -20,9 +20,9 @@
 <img src="./screenshots/select_ubuntu.png" alt="サンプル画像" width="600">
 ##  VScodeを開く
 Ubuntuターミナルで code ␣.(ドット)　と入力する
-'''
+```
 code .
-'''
+```
 <img src="./screenshots/select_ubuntu.png" alt="サンプル画像" width="600">
 # c言語ソースファイルの作成
 
