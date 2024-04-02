@@ -1,4 +1,4 @@
-# progad
+# 2024_1Q プログラミング応用演習@w203 every widnesday 1,2
 
 # wsl+ubuntusの利用方法 (w203演習室端末） 
 
