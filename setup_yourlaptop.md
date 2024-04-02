@@ -3,7 +3,7 @@
 Windows 11 Pro の日本語環境で、Windows Terminal、WSL2、Ubuntu、VSCodeを使用して開発環境を設定する手順を以下に説明します。
 
 1. Windows Terminal のインストール: a. Microsoft Store を開きます。 b. 検索バーに「Windows Terminal」と入力し、Enterキーを押します。 c. 「Windows Terminal」をクリックし、「インストール」ボタンをクリックします。 d. インストールが完了したら、Windows Terminal を起動します。
-2. WSL2 のインストール: a. 管理者権限で PowerShell を開きます。 b. 以下のコマンドを実行して、WSL を有効化します。c. 次に、以下のコマンドを実行して、仮想マシンプラットフォームを有効化します。d. コンピュータを再起動します。 e. WSL2 Linux カーネル更新プログラムをダウンロードしてインストールします。[リンク]( https://wslstorestorage.blob.core.windows.net/wslblob/wsl_update_x64.msi )　（インストールファイルをダブルクリックして実行すればよい）f. PowerShell を管理者権限で開き、以下のコマンドを実行して WSL2 を既定のバージョンとして設定します。
+2. WSL2 のインストール: a. 管理者権限で PowerShell を開きます。 b. 以下のコマンドを実行して、WSL を有効化します。c. 次に、以下のコマンドを実行して、仮想マシンプラットフォームを有効化します。d. コンピュータを再起動します。 e. WSL2 Linux カーネル更新プログラムをダウンロードしてインストールします。<https://wslstorestorage.blob.core.windows.net/wslblob/wsl_update_x64.msi >（インストールファイルをダブルクリックして実行すればよい）f. PowerShell を管理者権限で開き、以下のコマンドを実行して WSL2 を既定のバージョンとして設定します。
     
     ```
     dism.exe /online /enable-feature /featurename:Microsoft-Windows-Subsystem-Linux /all /norestart
