@@ -203,7 +203,7 @@ ls -l permissions.txt
 cd ../
 mkdir task5
 cd task5
-echo -e '#!/bin/bash\necho "Today is $(date)"\necho "Hello, World!"' > hello.sh
+echo -e '#!/bin/bash\necho "Today is $(date)"\n echo "Hello, World!"' > hello.sh
 chmod +x hello.sh
 ./hello.sh
 ```
