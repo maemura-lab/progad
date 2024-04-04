@@ -7,7 +7,7 @@
 参考までに昨年の情報です：
 - [魔法のスプレッドシート2023・夏](https://deep-professor-e3c.notion.site/049ca5329bbc4493bc9f4f5b3727d027?v=3b000340195242b0bd4b0741063ec259)
 
-色々とでています
+色々とでていますので、みなさんも探して準備をしてはどうでしょう
 - [サイバーエージェント](https://www.cyberagent.co.jp/careers/students/event/season=2024)
 - [NTTdata　B3,2,1向け](https://nttdata-recruit.com/event/internship.html)
 - [sky 26卒](https://www.sky-recruit.jp/internship/)
