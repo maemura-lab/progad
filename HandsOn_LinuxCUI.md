@@ -1,7 +1,7 @@
 # Hands on Linux CUI
--[practice01](#practice01)
--[practice02](#practice02)
--[practice02_examples](#practice02_examples)
+- [practice01](#practice01)
+- [practice02](#practice02)
+- [practice02_examples](#practice02_examples)
 
 
 ## practice01
