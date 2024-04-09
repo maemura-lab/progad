@@ -1,3 +1,43 @@
+# あなたのPCへのセットアップ方法(windows11 home)
+
+Windows 11 Home版の日本語環境で、Ubuntu LTS最新版とVSCodeを使って開発するための手順を以下に詳しく説明します。
+
+1. Windows Terminalのインストール:
+   a. Microsoft Storeを開きます。
+   b. 検索バーに「Windows Terminal」と入力し、Enterキーを押します。
+   c. 「Windows Terminal」をクリックし、「インストール」ボタンをクリックします。
+   d. インストールが完了したら、Windows Terminalを起動します。
+
+2. WSL2の有効化:
+   a. Windows 11 Home版では、WSL2はデフォルトで有効化されています。追加の設定は必要ありません。
+
+3. 最新のUbuntu LTSバージョンのインストール:
+   a. Microsoft Storeを開きます。
+   b. 検索バーに「Ubuntu 22.04 LTS」と入力し、Enterキーを押します。
+   c. 「Ubuntu 22.04 LTS」をクリックし、「インストール」ボタンをクリックします。
+   d. インストールが完了したら、Ubuntu 22.04 LTSを起動します。
+   e. 初回起動時にユーザー名とパスワードを設定します。
+
+4. VSCodeのインストール:
+   a. 以下のURLにアクセスして、VSCodeをダウンロードします。
+      https://code.visualstudio.com/download
+   b. ダウンロードしたインストーラーを実行し、指示に従ってインストールを完了します。
+   c. VSCodeを起動します。
+   d. 拡張機能タブ（Ctrl + Shift + X）を開き、「Remote - WSL」拡張機能を検索してインストールします。
+
+5. Ubuntu内でVSCodeを使用する:
+   a. Windows Terminalを起動します。
+   b. 新しいタブを開き、ドロップダウンメニューから「Ubuntu 22.04 LTS」を選択します。
+   c. Ubuntuのシェルが開いたら、以下のコマンドを入力してVSCodeを起動します。
+      ```
+      code .
+      ```
+   d. VSCodeがUbuntu内で開き、Ubuntuファイルシステムにアクセスできるようになります。
+
+これで、Windows 11 Home版の日本語環境で、Ubuntu 22.04 LTSとVSCodeを使った開発環境が整いました。Windows Terminalを使ってUbuntuシェルにアクセスし、VSCodeを使ってUbuntu内でシームレスに開発を行うことができます。
+
+今後、UbuntuのLTSバージョンが更新された場合は、Microsoft StoreからUbuntuの新しいLTSバージョンをインストールすることで、最新の開発環境を維持することができます。
+
 # あなたのPCへのセットアップ方法(windows11 pro)
 
 Windows 11 Pro の日本語環境で、Windows Terminal、WSL2、Ubuntu、VSCodeを使用して開発環境を設定する手順を以下に説明します。
